@@ -33,3 +33,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+<p align="center">© 2022 <a href="https://anshika-shukla.vercel.app/" target="_blank">Anshika Shukla</a>, all rights reserved. Made with ❤️ for a better web. </p>
